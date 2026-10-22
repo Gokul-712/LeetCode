@@ -15,3 +15,5 @@ class Solution {
 
     }
 }
+//Time Complexity: O(n) where n is the length of the input array nums. We iterate through the array once to check for duplicates.
+//Space Complexity: O(n) where n is the length of the input array nums. We create a HashSet to store unique elements.
