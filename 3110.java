@@ -8,3 +8,4 @@ class Solution {
     return score;
     }
 }
+//Time Complexity: O(n) where n is the length of the input string s. We iterate through the string once to calculate the score.
