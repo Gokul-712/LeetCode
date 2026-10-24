@@ -1,4 +1,4 @@
-public import java.util.HashMap;
+import java.util.HashMap;
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
@@ -18,8 +18,6 @@ class Solution {
 
         return new int[0];
     }
-} {
-    
 }
 //Time Complexity: O(n) where n is the length of the input array nums. We iterate through the array once to find the two numbers that add up to the target.
 //Space Complexity: O(n) since we are using a HashMap to store the numbers and
